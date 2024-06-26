@@ -1,4 +1,4 @@
-![Banner](Data/Images/CSharp-Exercism-S06E01-IfStatements-CarsAssemble.png)
+![Banner](Data/Images/CSharp-Exercism-S06E01-IfStatements-CarsAssemble-Banner.png)
 
 ### CSharp-Exercism-S06E01-IfStatements-CarsAssemble
 
